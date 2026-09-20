@@ -1,0 +1,6 @@
+{
+  "name": "Student Helper",
+  "description": "A smart collaborative workspace with integrated AI, real-time sync, offline capabilities, study notes with pics & PDF uploads, and task reminders for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
